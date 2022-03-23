@@ -1,0 +1,1 @@
+Acquire circa-2005 prior art IBM T41 laptop computer for Project Looking Glass live demonstration (0.3), acquire IBM Ultrabase dock with CDROM drive to enable boot from CD (0.3), analyze operation of LG3D Looking Glass 2.1 software running on IBM X60s (0.6).

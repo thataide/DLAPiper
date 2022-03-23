@@ -1,0 +1,1 @@
+Analyze strategy regarding focusing of MRC for medical record summaries.

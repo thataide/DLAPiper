@@ -1,0 +1,1 @@
+Research current contact information for former Sun Microsystems engineers responsible for developing Project Looking Glass code (1.3), analyze operation of Project Looking Glass Live CD 2.1 code on prior art PC (0.7).

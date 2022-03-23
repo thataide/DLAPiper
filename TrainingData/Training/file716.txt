@@ -1,0 +1,1 @@
+Apply privilege filters on potentially responsive documents in preparation of production for case team review.

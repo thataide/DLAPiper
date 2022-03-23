@@ -1,0 +1,1 @@
+Review select EDTX transcripts to determine handling of Internet Archive declarations (0.6), summarize same for internal team (0.5).

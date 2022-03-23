@@ -1,0 +1,1 @@
+Coordinate production of client lists (0.6). Coordinate search and analysis of documents for deposition preparation (0.4).
